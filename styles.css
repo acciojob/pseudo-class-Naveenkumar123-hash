@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-div:before{
+p::before{
 content:"Before Element";
 Color:rgb(0,0,0);
 Font-size: large;}
-div:after{
+p::after{
 content:"After Element";
 Color:(0,0,0);
 Font-size: large}
